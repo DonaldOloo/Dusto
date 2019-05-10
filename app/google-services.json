@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "404446018102",
+    "firebase_url": "https://dusto-4118e.firebaseio.com",
+    "project_id": "dusto-4118e",
+    "storage_bucket": "dusto-4118e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404446018102:android:81864afe9216e468",
+        "android_client_info": {
+          "package_name": "com.example.dusto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404446018102-6k83sdapphf7qct60nqai2s57r8hl49i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dusto",
+            "certificate_hash": "5ab36763ebe7e88221b975a7a95cc4b68548d342"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GNMNj1djZtZzsPYFYeyTv89HU4xiC3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404446018102-dgsao18koaqim1c6coduea650vpind27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
